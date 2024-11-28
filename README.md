@@ -1,5 +1,6 @@
 ## Hi there 👋
 My name is Lucifer Jones
+![464456193_27337637512550039_232384186120984286_n](https://github.com/user-attachments/assets/0327e91e-45f1-47e2-aca5-2e9aa3ad6998)
 
 ## What am i currently Learning 🌱?
 I am currently learning Software Engineering through a bootcamp created by HyperionDev, so far my course has touched upon Python, HTML, CSS, and a little Javascript for web page interactivity.
