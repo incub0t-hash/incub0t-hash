@@ -1,12 +1,13 @@
 ## Hi there 👋
 My name is Lucifer Jones
-## What am i currently Learning?
+
+## What am i currently Learning 🌱?
 I am currently learning Software Engineering through a bootcamp created by HyperionDev, so far my course has touched upon Python, HTML, CSS, and a little Javascript for web page interactivity.
-## What am i looking for help with?
+## What am i looking for help with 🤔?
 I am looking for help with learning the best and efficient ways to create beautifully designed websites in house without the use of third party code such as bootstrap as some of these are paid.
-## Ask me About:
+## Ask me About 💬:
 Ask me about my aspirations for AI.
-## What am i currently working on?
+## What am i currently working on 🔭?
 I am currently working on building my brand portfolio.
 
 <!--
