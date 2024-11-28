@@ -1,4 +1,8 @@
 ## Hi there 👋
+I am currently learning Software Engineering through a bootcamp created by HyperionDev, so far my course has touched upon Python, HTML, CSS, and a little Javascript for web page interactivity.
+I am looking for help with learning the best and efficient ways to create beautifully designed websites in house without the use of third party code such as bootstrap as some of these are paid.
+Ask me about my aspirations for AI.
+I am currently working on building my brand portfolio.
 
 <!--
 **incub0t-hash/incub0t-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
